@@ -13,4 +13,4 @@
 | 23/11/2023 | ... |
 
 ---
-Substitua essa linha com o seu **nome completo**
+Eduardo Heredia
