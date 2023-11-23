@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8c1917360d8f2357",
+        "id": "30e084f4c6fe8032",
         "type": "tabs",
         "children": [
           {
-            "id": "8a0e31016b499a0c",
+            "id": "ca6113bdff53265d",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "bbd5e606e758a529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desabilitar Suspensão e Hibernação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e6a1371232fd11fc",
@@ -95,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desabilitar Suspensão e Hibernação.md",
+                "file": "Git/Criando par de chaves SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desabilitar Suspensão e Hibernação.md",
+                "file": "Git/Criando par de chaves SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desabilitar Suspensão e Hibernação.md"
+                "file": "Git/Criando par de chaves SSH.md"
               }
             }
           }
@@ -156,9 +142,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bbd5e606e758a529",
+  "active": "9cf8b952431159c3",
   "lastOpenFiles": [
-    "Desabilitar Suspensão e Hibernação.md",
+    "Linux/Desabilitar Suspensão e Hibernação.md",
+    "Git/Criando par de chaves SSH.md",
+    "Git",
     "Linux"
   ]
 }
