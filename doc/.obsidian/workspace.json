@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30e084f4c6fe8032",
+        "id": "2bf8f901f22b6e9c",
         "type": "tabs",
         "children": [
           {
-            "id": "ca6113bdff53265d",
+            "id": "54999d1dae6455a4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Criando par de chaves SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Criando par de chaves SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git/Criando par de chaves SSH.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,10 +138,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9cf8b952431159c3",
+  "active": "54999d1dae6455a4",
   "lastOpenFiles": [
-    "Linux/Desabilitar Suspensão e Hibernação.md",
+    "Aulas/Aula em 23_11_2023.md",
+    "Podman/Container Podman.md",
+    "Podman/Baixar Podman no Archcraft.md",
+    "Aulas",
     "Git/Criando par de chaves SSH.md",
+    "Podman",
+    "Linux/Desabilitar Suspensão e Hibernação.md",
     "Git",
     "Linux"
   ]
